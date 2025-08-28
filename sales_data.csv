@@ -1,0 +1,26 @@
+OrderID,Product,Category,Sales,Quantity,Profit,Date
+1,Laptop,Electronics,55000,2,8000,2025-01-01
+2,Headphones,Electronics,2000,5,700,2025-01-08
+3,Chair,Furniture,3500,3,500,2025-01-15
+4,Notebook,Stationery,200,10,40,2025-01-22
+5,Mobile,Electronics,15000,4,3000,2025-01-29
+6,Table,Furniture,8000,1,1500,2025-02-05
+7,Monitor,Electronics,12000,2,2500,2025-02-12
+8,Mouse,Electronics,800,10,200,2025-02-19
+9,Keyboard,Electronics,1500,5,400,2025-02-26
+10,Pen,Stationery,100,20,30,2025-03-05
+11,Tablet,Electronics,18000,3,4000,2025-03-12
+12,Lamp,Furniture,2500,2,700,2025-03-19
+13,Bag,Fashion,3000,3,800,2025-03-26
+14,Shoes,Fashion,4000,2,1000,2025-04-02
+15,Watch,Fashion,5000,1,1500,2025-04-09
+16,Printer,Electronics,10000,2,2000,2025-04-16
+17,Speaker,Electronics,3500,4,800,2025-04-23
+18,Cup,Kitchen,700,6,100,2025-04-30
+19,Router,Electronics,2500,3,500,2025-05-07
+20,Camera,Electronics,22000,2,5000,2025-05-14
+21,SSD,Electronics,7000,4,1000,2025-05-21
+22,Hard Drive,Electronics,6000,2,1200,2025-05-28
+23,Cable,Electronics,400,15,50,2025-06-04
+24,Book,Stationery,150,10,20,2025-06-11
+25,Bottle,Kitchen,300,8,60,2025-06-18
